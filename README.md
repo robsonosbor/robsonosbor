@@ -45,7 +45,7 @@ Além do trabalho, valorizo momentos simples com minha **família** e adoro assi
 ## Conecte-se Comigo
 
 - **LinkedIn:** [Robson Batista](https://www.linkedin.com/in/robsonbatista1975/)
-- **GitHub:** [@robsonbatista1975](https://github.com/robsonbatista1975)
+- **GitHub:** [@robsonbatista1975](https://github.com/robsonosbor)
 
 ---
 
