@@ -18,7 +18,7 @@ Desde 2001, minha trajetória é guiada por uma curiosidade incessante e paixão
 
 ## Projetos em Destaque
 
-### [Chess System Java ♟️](https://github.com/tiagosathler/chess-system-java)
+### [Chess System Java ♟️](https://github.com/robsonosbor/chess-system-java)
 Desenvolvi este projeto como parte do curso [Java Completo](https://www.udemy.com/course/java-curso-completo/). O sistema de jogo de xadrez explora conceitos avançados de **POO**, padrões de camadas e design lógico. 
 
 **Destaques:**
