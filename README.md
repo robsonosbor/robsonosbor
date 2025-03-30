@@ -64,10 +64,10 @@ Bem-vindo à minha página pessoal! Sou apaixonado por **tecnologia**, **música
 
   ### [Spring System Monitoring 🖥️](https://github.com/robsonosbor/spring-system-monitoring)
 🛠️ Funcionalidades
-📊 Monitoramento de recursos: CPU, memória, uso de disco, etc.
-🔔 Alertas personalizáveis: Receba notificações quando limites definidos forem excedidos.
-📈 Visualização de métricas: Exiba gráficos e dashboards intuitivos.
-⚙️ APIs RESTful: Integração com sistemas de terceiros para coleta e análise de métricas.
+- 📊 **Monitoramento de recursos**: CPU, memória, uso de disco, etc.
+- 🔔 **Alertas personalizáveis**: Receba notificações quando limites definidos forem excedidos.
+- 📈 **Visualização de métricas**: Exiba gráficos e dashboards intuitivos.
+- ⚙️ **APIs RESTful**: Integração com sistemas de terceiros para coleta e análise de métricas.
 
 ###[Em breve...] Mais projetos a caminho!
 
