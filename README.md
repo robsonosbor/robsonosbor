@@ -60,7 +60,14 @@ Bem-vindo à minha página pessoal! Sou apaixonado por **tecnologia**, **música
 **Destaques:**
 - Implementação de APIs RESTful com **Spring Boot**.
 - Integração com **JPA/Hibernate** para gerenciamento de dados.
-- Uso de boas práticas de arquitetura e design para sistemas escaláveis.  
+- Uso de boas práticas de arquitetura e design para sistemas escaláveis.
+
+  ### [Spring System Monitoring 🖥️](https://github.com/robsonosbor/spring-system-monitoring)
+🛠️ Funcionalidades
+📊 Monitoramento de recursos: CPU, memória, uso de disco, etc.
+🔔 Alertas personalizáveis: Receba notificações quando limites definidos forem excedidos.
+📈 Visualização de métricas: Exiba gráficos e dashboards intuitivos.
+⚙️ APIs RESTful: Integração com sistemas de terceiros para coleta e análise de métricas.
 
 ###[Em breve...] Mais projetos a caminho!
 
