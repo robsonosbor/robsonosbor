@@ -4,7 +4,7 @@
 
 # 🖥️ Robson Batista
 
-## 🚀 Desenvolvedor Full Stack Java/PHP/Angular
+## 🚀 Desenvolvedor Full Stack Java/PHP/C#/Angular
 
 "Sou Robson Batista, desenvolvedor back-end especializado em Java e PHP, com mais de uma década de experiência no desenvolvimento de soluções inovadoras para empresas públicas e privadas. Tenho forte foco em performance, integração de sistemas e otimização de processos. Minha carreira é guiada pela paixão por tecnologia e pelo compromisso em entregar soluções de impacto real para o negócio. Estou em busca de novos desafios onde possa alavancar minha experiência técnica e meu perfil empreendedor, colaborando para o sucesso da equipe e da empresa."
 
