@@ -4,7 +4,7 @@
 
 # 🖥️ Robson Batista
 
-## 🚀 Desenvolvedor Full Stack Java/PHP/C#/Angular
+## Desenvolvedor Full Stack Java/PHP/C#/Angular
 
 "Sou Robson Batista, desenvolvedor back-end especializado em Java e PHP, com mais de uma década de experiência no desenvolvimento de soluções inovadoras para empresas públicas e privadas. Tenho forte foco em performance, integração de sistemas e otimização de processos. Minha carreira é guiada pela paixão por tecnologia e pelo compromisso em entregar soluções de impacto real para o negócio. Estou em busca de novos desafios onde possa alavancar minha experiência técnica e meu perfil empreendedor, colaborando para o sucesso da equipe e da empresa."
 
@@ -21,7 +21,7 @@
 
 ---
 
-## 🌐 Conecte-se comigo
+## Conecte-se comigo
 
 <div align="left">
   <!-- <a href="mailto:nosboro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="45px"/>
@@ -48,7 +48,7 @@
 
 ---
 
-## 📌 Projetos
+## Projetos
 
 ### [Chess System Java ♟️](https://github.com/robsonosbor/chess-system-java)
 **Destaques:**
@@ -73,7 +73,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="left">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=robsonosbor&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
@@ -82,12 +82,12 @@
 
 ---
 
-## 🚀 Atividade no GitHub
+## Atividade no GitHub
 [![Robson's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=robsonosbor&bg_color=1a1b27&color=6e93b5&line=ffffff&point=6e93b5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-### 🎯 Visitantes:
+### Visitantes:
 
 <div align="center">
   <p><b>Contador de Visitantes:</b></p>
